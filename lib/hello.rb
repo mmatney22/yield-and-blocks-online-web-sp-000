@@ -5,5 +5,3 @@ def hello_t
     i += 1
   end
 end
-
-
